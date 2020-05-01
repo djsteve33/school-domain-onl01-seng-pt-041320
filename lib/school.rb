@@ -8,6 +8,6 @@ class School
     end
     
     
-    def add_student(name, grade)
+    def add_student(name, grade_level)
     end 
 end
