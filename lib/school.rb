@@ -14,7 +14,8 @@ class School
     end 
     
     def grade(grade_level)
-      roster.detect do 
+      roster.detect do |x, y|
+        
     
     
 end
