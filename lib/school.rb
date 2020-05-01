@@ -27,4 +27,5 @@ class School
         new_hash[x] = y.sort
       end
       new_hash
+    end
 end
